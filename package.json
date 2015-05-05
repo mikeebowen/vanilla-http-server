@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-http-server",
+  "version": "0.1.0",
+  "description": "Vanilla HTTP Sever Assignment for JavaScript Dev Accelerator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbgit/vanilla-http-server.git"
+  },
+  "author": "Michael Bowen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrbgit/vanilla-http-server/issues"
+  },
+  "homepage": "https://github.com/mrbgit/vanilla-http-server#readme"
+}
